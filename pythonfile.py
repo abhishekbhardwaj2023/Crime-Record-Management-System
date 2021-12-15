@@ -1,3 +1,4 @@
+# importing required module
 from tkinter import *
 def click():
     text_entry=textentry.get()
