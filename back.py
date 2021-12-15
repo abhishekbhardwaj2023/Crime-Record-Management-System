@@ -1,3 +1,4 @@
+# importing required module
 import sqlite3
 
 def connect():
